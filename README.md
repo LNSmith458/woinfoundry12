@@ -1,5 +1,5 @@
 # Maintenance Note
-Due to work and no longer having a group to run WOIN with development has paused (possibly forever). If there is enough demand I may put in the work to get the system up to date with the latest foundry version, but don't expect new features. WOINFoundry still runs great on foundry V9 in case you need a way to play WOIN in a VTT, however does not support foundry V10 or newer.
+Attempting to update WoinFoundry to work on Foundry12
 
 # WOINFoundry
 WOINFoundry adds support for WOIN to Foundry. I made this system for my groups NEW game (so the theming and compendiums support NEW), but this should be able to support OLD, NOW, etc just without compendiums.
