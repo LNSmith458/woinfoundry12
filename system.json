@@ -2,7 +2,7 @@
   "name": "woinfoundry",
   "title": "WOIN Foundry",
   "description": "An implementation of WOIN NEW for foundry, capable of running other WOIN systems (though without premade compendiums).",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "compatibility": {
     "minimum": "11.315",
     "verified": "12"
@@ -29,8 +29,8 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "url": "https://github.com/LNSmith458/woinfoundry",
-  "manifest": "https://github.com/LNSmith458/woinfoundry12/releases/download/0.4.4/system.json",
-  "download": "https://github.com/LNSmith458/woinfoundry12/releases/download/0.4.4/system.zip",
+  "manifest": "https://github.com/LNSmith458/woinfoundry12/releases/download/0.4.5/system.json",
+  "download": "https://github.com/LNSmith458/woinfoundry12/releases/download/0.4.5/system.zip",
   "license": "LICENSE.txt",
   "packs": [
     {
