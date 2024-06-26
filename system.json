@@ -28,9 +28,9 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "url": "https://github.com/McArthur-Alford/woinfoundry",
-  "manifest": "https://github.com/McArthur-Alford/woinfoundry/releases/download/0.4.4/system.json",
-  "download": "https://github.com/McArthur-Alford/woinfoundry/releases/download/0.4.4/system.zip",
+  "url": "https://github.com/LNSmith458/woinfoundry",
+  "manifest": "https://github.com/LNSmith458/woinfoundry12/releases/download/0.4.4/system.json",
+  "download": "https://github.com/LNSmith458/woinfoundry12/releases/download/0.4.4/system.zip",
   "license": "LICENSE.txt",
   "packs": [
     {
