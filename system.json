@@ -4,8 +4,8 @@
   "description": "An implementation of WOIN NEW for foundry, capable of running other WOIN systems (though without premade compendiums).",
   "version": "0.4.4",
   "compatibility": {
-    "minimum": "10",
-    "verified": "12",
+    "minimum": "11.315",
+    "verified": "12"
   },
   "authors": [
     {
